@@ -1,0 +1,30 @@
+html {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+.logo {
+  width: 150px;
+}
+.firstSearch {
+  width: 50%;
+}
+.firstSearch {
+  box-shadow: 0 0.5px 5px rgba(0, 0, 0, 0.192);
+}
+.secondSearch {
+  box-shadow: 1px 1px 2px red;
+}
+.hide {
+  text-decoration-color: red;
+  text-decoration-line: line-through;
+}
+.v-alert--outlined {
+  border-width: 3px !important;
+}
